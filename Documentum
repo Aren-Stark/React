@@ -1,0 +1,7 @@
+npx-execute
+npm-manage
+
+npm start -- --tunnel
+npx expo start
+npm start
+
